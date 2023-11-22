@@ -50,12 +50,11 @@
 ## OUTPUT
 ![![WhatsApp Image 2023-11-22 at 08 17 28_bb44bcab](https://github.com/Himavath08/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139110631/91e44ba5-36dc-4e86-8279-3b41a0fbb33b)
 
+![![WhatsApp Image 2023-11-22 at 08 17 29_b0a18e75](https://github.com/Himavath08/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139110631/92ca3952-5d94-49d2-9da4-94c4ccee8c25)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
+![![WhatsApp Image 2023-11-22 at 08 17 29_87b4fa6a](https://github.com/Himavath08/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139110631/f17a265b-b2f7-4efc-aecf-f6143ad19ce0)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
+![![WhatsApp Image 2023-11-22 at 08 17 29_39a7798b](https://github.com/Himavath08/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139110631/b1822b4d-290e-4bbd-a0b4-9c4b757f7faa)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
